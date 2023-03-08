@@ -1,6 +1,6 @@
 ### Hello, I'm Rodrigo Paiva 👋
 
-- 👨🏻 I'm 20 years old and I live in São Paulo, Brazil.
+- 👨🏻 I'm 21 years old and I live in São Paulo, Brazil.
 - 🖥️ I'm currently studying HTML5, Java, Javascript, CSS and Python.
 - 🖌️ I'm passionate about front-end programming.
 <div align="center">
